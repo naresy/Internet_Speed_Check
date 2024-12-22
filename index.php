@@ -148,20 +148,13 @@
 				<div id="startStopBtn" onclick="startStop()"></div>
 			</center>
 			<script type="text/javascript">setTimeout(initUI,100);</script>
-			<div class="fbdiv">
-				<a rel="nofollow" href="http://www.facebook.com/share.php?u=<;<?php echo $website_url ; ?>>" onclick="return fbs_click()" target="_blank" class="fblink">
-					<i class="fab fa-facebook-square"></i> Share on Facebook 
-				</a>
-			</div>	
+			
 			</br>
 			<center>
 				<?php echo $big_ads_id ; ?>			
 			</br>
 				<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-				<div id="counter-area-winkey">Real time <span id="counter-winkey"></span> visitors right now</div>
-				<script>
-					function r(t,r){return Math.floor(Math.random()*(r-t+1)+t)}var interval=2e3,variation=5,c=r(500,2e3);$("#counter-winkey").text(c),setInterval(function(){var t=r(-variation,variation);c+=t,$("#counter-winkey").text(c)},interval);
-				</script>
+			
 			</center>
 		</div>	
 	<?php require_once ('inc/footer.php')?>			
