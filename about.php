@@ -7,9 +7,8 @@
 
 		<!--------	About	-------->
 
-			<h1>About Me</h1>
-			<p>Hi, i'm Naem Azam, a passionate self-taught Progammer. my passion for System lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
-<p>i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+			<h1>About Project</h1>
+			<p>Internet Testing Project: A comprehensive system designed to assess and evaluate internet speed, stability, and performance metrics. This project includes tools for real-time monitoring, data analysis, and reporting to ensure accurate insights into network quality and reliability.</p>
 		
 		<!--------	END About	-------->
 
