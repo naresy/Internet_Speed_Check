@@ -1,4 +1,4 @@
-<h1>Project Name</h1>
+<h1>Internet Speed Check</h1>
 <p>This is a brief description of the project, its purpose, and its features.</p>
 
 <h2>Folder Structure</h2>
