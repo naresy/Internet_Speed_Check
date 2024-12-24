@@ -1,5 +1,5 @@
 <h1>Internet Speed Check</h1>
-<p>This is a brief description of the project, its purpose, and its features.</p>
+<p>A comprehensive system designed to assess and evaluate internet speed, stability, and performance metrics. This project includes tools for real-time monitoring, data analysis, and reporting to ensure accurate insights into network quality and reliability.</p>
 
 <h2>Folder Structure</h2>
 <ul>
