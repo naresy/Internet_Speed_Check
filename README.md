@@ -16,7 +16,7 @@
 <ol>
         <li>Ensure you have a local web server installed (e.g., <a href="https://www.apachefriends.org/index.html">XAMPP</a> or <a href="https://www.wampserver.com/">WAMP</a>).</li>
         <li>Clone or download the project repository to your local machine:</li>
-        <pre><code>git clone https://github.com/your-repository-name.git</code></pre>
+        <pre><code>git clone https://github.com/naresy/Internet_Speed_Check</code></pre>
         <li>Move the project folder to your web server's root directory:
             <ul>
                 <li>For XAMPP: Place the folder in <code>htdocs/</code></li>
