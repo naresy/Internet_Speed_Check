@@ -18,11 +18,11 @@
         <li>Clone or download the project repository to your local machine:</li>
         <pre><code>git clone https://github.com/naresy/Internet_Speed_Check</code></pre>
         <li>Move the project folder to your web server's root directory:
-            <ul>
+<ul>
                 <li>For XAMPP: Place the folder in <code>htdocs/</code></li>
               
-            </ul>
-        </li>
+</ul>
+</li>
         <li>Start your web server.</li>
         <li>Open a browser and navigate to: <code>http://localhost/project-folder-name</code></li>
 </ol>
