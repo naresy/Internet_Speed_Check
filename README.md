@@ -20,7 +20,7 @@
         <li>Move the project folder to your web server's root directory:
             <ul>
                 <li>For XAMPP: Place the folder in <code>htdocs/</code></li>
-                <li>For WAMP: Place the folder in <code>www/</code></li>
+              
             </ul>
         </li>
         <li>Start your web server.</li>
